@@ -10,3 +10,17 @@ The picture below shows the results of the accuracy of the model;
 
 
 ![screenshot](https://user-images.githubusercontent.com/18283171/54603995-a53cb800-4a80-11e9-93f9-e3a618854c0d.JPG)
+
+
+##Helpful Resources to retrain your own object-detection models
+
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#3
+
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#appendix-common-errors
+
+##setting up
+
+```
+pip install --ignore-installed --upgrade tensorflow-gpu
+```
+
